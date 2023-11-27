@@ -1,0 +1,14 @@
+/home/albert/Documents/C#-Learn/FraudulentOrder/bin/Debug/net8.0/FraudulentOrder
+/home/albert/Documents/C#-Learn/FraudulentOrder/bin/Debug/net8.0/FraudulentOrder.deps.json
+/home/albert/Documents/C#-Learn/FraudulentOrder/bin/Debug/net8.0/FraudulentOrder.runtimeconfig.json
+/home/albert/Documents/C#-Learn/FraudulentOrder/bin/Debug/net8.0/FraudulentOrder.dll
+/home/albert/Documents/C#-Learn/FraudulentOrder/bin/Debug/net8.0/FraudulentOrder.pdb
+/home/albert/Documents/C#-Learn/FraudulentOrder/obj/Debug/net8.0/FraudulentOrder.GeneratedMSBuildEditorConfig.editorconfig
+/home/albert/Documents/C#-Learn/FraudulentOrder/obj/Debug/net8.0/FraudulentOrder.AssemblyInfoInputs.cache
+/home/albert/Documents/C#-Learn/FraudulentOrder/obj/Debug/net8.0/FraudulentOrder.AssemblyInfo.cs
+/home/albert/Documents/C#-Learn/FraudulentOrder/obj/Debug/net8.0/FraudulentOrder.csproj.CoreCompileInputs.cache
+/home/albert/Documents/C#-Learn/FraudulentOrder/obj/Debug/net8.0/FraudulentOrder.dll
+/home/albert/Documents/C#-Learn/FraudulentOrder/obj/Debug/net8.0/refint/FraudulentOrder.dll
+/home/albert/Documents/C#-Learn/FraudulentOrder/obj/Debug/net8.0/FraudulentOrder.pdb
+/home/albert/Documents/C#-Learn/FraudulentOrder/obj/Debug/net8.0/FraudulentOrder.genruntimeconfig.cache
+/home/albert/Documents/C#-Learn/FraudulentOrder/obj/Debug/net8.0/ref/FraudulentOrder.dll

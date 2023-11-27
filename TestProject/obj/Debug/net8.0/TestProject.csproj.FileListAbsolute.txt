@@ -1,0 +1,14 @@
+/home/albert/Documents/C#-Learn/TestProject/bin/Debug/net8.0/TestProject
+/home/albert/Documents/C#-Learn/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/albert/Documents/C#-Learn/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/home/albert/Documents/C#-Learn/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/albert/Documents/C#-Learn/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/albert/Documents/C#-Learn/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/albert/Documents/C#-Learn/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/albert/Documents/C#-Learn/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/albert/Documents/C#-Learn/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/albert/Documents/C#-Learn/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/albert/Documents/C#-Learn/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/albert/Documents/C#-Learn/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/albert/Documents/C#-Learn/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/home/albert/Documents/C#-Learn/TestProject/obj/Debug/net8.0/ref/TestProject.dll
