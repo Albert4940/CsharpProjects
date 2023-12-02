@@ -1,0 +1,15 @@
+/home/albert/Documents/CsharpProjects/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging
+/home/albert/Documents/CsharpProjects/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.deps.json
+/home/albert/Documents/CsharpProjects/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.runtimeconfig.json
+/home/albert/Documents/CsharpProjects/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.dll
+/home/albert/Documents/CsharpProjects/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.pdb
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfo.cs
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.sourcelink.json
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.dll
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/refint/DotNetDebugging.dll
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.pdb
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.genruntimeconfig.cache
+/home/albert/Documents/CsharpProjects/DotNetDebugging/obj/Debug/net8.0/ref/DotNetDebugging.dll
